@@ -1,0 +1,83 @@
+{
+  "name": "Adithya Nayak K",
+  "title": "Google Certified Associate Cloud Engineer",
+  "tagline": "Building reliable cloud integrations, conversational AI, and backend systems on GCP.",
+  "location": "Bengaluru, Remote",
+  "contact": {
+    "phone": "+91-9449939242",
+    "email": "adithyagithub543@gmail.com",
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/"
+  },
+  "summary": "Google Cloud Certified engineer with hands-on experience in GCP cloud integrations, authentication, Python automation, REST APIs, Google CCAI, and cloud services. Experienced in troubleshooting integrations, analyzing Cloud logs, automating operational workflows, and building backend solutions. Currently developing expertise in Docker, Terraform, CI/CD, and cloud infrastructure automation.",
+  "experience": [
+    {
+      "company": "Cognizant Technology Solutions (CTS)",
+      "role": "Programmer Analyst – Digital Customer Experience",
+      "location": "Bengaluru, Remote",
+      "period": "Jun 2025 – Present",
+      "highlights": [
+        "Integrated 2 Salesforce Flows with Google CCAI and Agent Assist, configuring customer-service workflows and conversational AI for a major Salesforce-based POC.",
+        "Automated project file-conversion and GCP integration workflows using Python and Google Apps Script, reducing repetitive manual processing.",
+        "Configured and tested 2 CCAI/Agent Assist use cases and 2 backend APIs across 3 environments, applying OAuth 2.0, IAM, and service-account authentication.",
+        "Monitored conversational AI apps using CCAI Platform, Dialogflow CX, Cloud Logging, Cloud Storage, and Datastore.",
+        "Built a browser-based debugging and log collection tool that cut troubleshooting time by ~50% for a 10–13 member Agile team."
+      ]
+    },
+    {
+      "company": "Cognizant Technology Solutions (CTS)",
+      "role": "Intern",
+      "location": "Chennai",
+      "period": "Mar 2024 – May 2024",
+      "highlights": [
+        "Built and tested backend APIs using Python and Node.js, integrated with PostgreSQL and MySQL.",
+        "Supported API testing, debugging, and validation using Postman.",
+        "Assisted in developing cloud-based chatbot prototypes with Google Dialogflow."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Sahyadri College Of Engineering & Management, Mangaluru",
+      "degree": "Bachelor of Engineering – Computer Science & Engineering",
+      "period": "Dec 2021 – 2025",
+      "detail": "CGPA: 8.64"
+    }
+  ],
+  "skills": {
+    "Cloud Platforms": ["GCP", "Cloud Storage", "Cloud Logging", "Datastore", "GECX"],
+    "Cloud AI": ["Google CCAI", "Dialogflow CX", "Google CES", "Vertex AI Agent Platform"],
+    "API & Backend": ["REST APIs", "NestJS", "TypeScript", "Python", "OAuth 2.0", "IAM"],
+    "Databases": ["PostgreSQL", "MySQL"],
+    "DevOps & Tools": ["Docker", "Terraform", "Git", "Jira", "Postman"],
+    "AI Tools": ["Claude Code", "ChatGPT", "Google Gemini", "Cursor AI", "LangChain"]
+  },
+  "projects": [
+    {
+      "name": "CloudOps Sentinel",
+      "type": "Personal Project",
+      "stack": ["GCP", "NestJS", "TypeScript", "Docker", "Terraform", "PostgreSQL"],
+      "highlights": [
+        "Dockerized cloud operations and monitoring platform with NestJS, TypeScript, REST APIs, and DTO validation.",
+        "Integrated Cloud Run, Compute Engine, Cloud SQL, Cloud Logging, and Cloud Storage.",
+        "Designed health-check workflows and used Terraform for infrastructure-as-code."
+      ]
+    },
+    {
+      "name": "Cloud Task Management Backend",
+      "type": "Personal Project",
+      "stack": ["NestJS", "TypeScript", "Docker", "GCP", "PostgreSQL"],
+      "highlights": [
+        "RESTful APIs with NestJS/TypeScript, DTO validation, and structured HTTP error handling.",
+        "Containerized with Docker for Google Cloud deployment.",
+        "Validated APIs with Postman and PostgreSQL for persistent data."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Associate Cloud Engineer",
+      "verifyUrl": "https://www.credly.com/badges/eb4d45ff-0f9a-43b1-8ec9-6304d1ff7a02/public_url"
+    }
+  ]
+}
